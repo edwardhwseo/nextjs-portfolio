@@ -6,6 +6,7 @@ import {
   SiBootstrap,
   SiCsharp,
   SiCss3,
+  SiFigma,
   SiGit,
   SiHtml5,
   SiJavascript,
@@ -31,6 +32,7 @@ export default function Skills() {
     { text: "Ruby on Rails", Icon: SiRubyonrails },
     { text: "SQL", Icon: SiSqlite },
     { text: "Git", Icon: SiGit },
+    { text: "Figma", Icon: SiFigma },
   ];
 
   return (

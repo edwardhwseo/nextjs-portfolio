@@ -15,8 +15,9 @@ export default function HeroSection() {
           </span>
         </h1>
         <p className="md:w-96 text-lg text-gray-300">
-          Based in Winnipeg, Manitoba, I'm a passionate Web Developer interested
-          in building user-friendly web solutions.
+          Based in Winnipeg, Manitoba, I'm a{" "}
+          <span className="font-bold">web developer</span> who enjoys creating
+          user-friendly websites and applications.
         </p>
         <Link
           href={"mailto:edwardhwseo@gmail.com"}
